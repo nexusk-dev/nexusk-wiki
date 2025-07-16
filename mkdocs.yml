@@ -1,0 +1,23 @@
+site_name: NexusK Wiki
+site_url: ""  # 如果是本地或 file:// 打开可以保持空
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - 首页: index.md
+  - 玩法指南:
+      - 入门流程: getting-started.md
+      - 常见问题: faq.md
+  - 世界设定:
+      - 世界观: world.md
+      - 核心角色: characters.md
+  - 机制解析:
+      - 技术插件: tech.md
+      - 经济系统: economy.md
+  - 加入我们: join.md
