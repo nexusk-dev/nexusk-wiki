@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# NexusK Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> 在像素的宇宙中，一切皆可重构。
 
-## Commands
+欢迎访问 NexusK 服务器的官方 Wiki。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+你可以在这里了解：
 
-## Project layout
+- 玩法机制与进阶技巧
+- 世界观与角色设定
+- 插件支持与经济系统
+- 如何加入并成为一员
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> 如果你是第一次来到这个世界，请从 [入门流程](getting-started.md) 开始。
